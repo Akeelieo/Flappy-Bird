@@ -11,3 +11,6 @@ Then add all the COE Files to run by using block memory block. The images and CO
 Copy and Paste all the Code into Vivado to Play
 
 Usage: Start: press BTN0 to begin the game Flap: press BTN0 again to flap the bird upward Difficulty: set SW[0..2] before start for levels 0–3 (faster pipes) Reset: after game‑over, press BTN0 to restart Unlock Hat: move the board quickly (accelerometer) to make a crown appear
+
+
+![alt text](435630609-824c32b9-2bb6-4b91-b8b4-44a0d037823a.jpeg)
