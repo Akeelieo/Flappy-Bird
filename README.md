@@ -14,3 +14,5 @@ Usage: Start: press BTN0 to begin the game Flap: press BTN0 again to flap the bi
 
 
 ![alt text](435630609-824c32b9-2bb6-4b91-b8b4-44a0d037823a.jpeg)
+
+![Demo](1745259435-Merged1-ezgif.com-video-to-gif-converter.gif)
